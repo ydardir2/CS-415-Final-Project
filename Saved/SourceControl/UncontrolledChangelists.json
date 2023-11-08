@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE5 Projects/SideScrollerTemplate/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap",
+				"E:/UE5 Projects/CS-415-Final-Project/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap"
+			]
+		}
+	]
+}
