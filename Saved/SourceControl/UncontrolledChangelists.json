@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/biovp/Documents/GitHub/CS-415-Final-Project/Content/SideScrollerBP/Blueprints/BP_SideScrollerCharacter.uasset",
+				"C:/Users/biovp/Documents/GitHub/CS-415-Final-Project/Content/UI/Image/health_bar_fill.uasset",
+				"C:/Users/biovp/Documents/GitHub/CS-415-Final-Project/Content/UI/Image/health_bar_empty.uasset",
+				"C:/Users/biovp/Documents/GitHub/CS-415-Final-Project/Content/UI/Health_Bar.uasset",
 				"E:/UE5 Projects/SideScrollerTemplate/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap",
 				"E:/UE5 Projects/CS-415-Final-Project/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap"
 			]
